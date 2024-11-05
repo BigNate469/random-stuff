@@ -1,6 +1,6 @@
 Disclaimer: This document is here purely for archival purposes, and to render it as HTML (after compiling this file into HTML from Markdown) (the original is a PDF). The original document can be found at [here](https://static1.squarespace.com/static/59371b611e5b6cbaaa211ff9/t/67211c6ce386eb15e68bc5bb/1730223212541/Senior+Back-End+Engineer.pdf).
 
-**_Senior Engineer Back-end Services_** | **_Job Description_**
+**_Senior Engineer Back-end Services_** \| **_Job Description_**
 
 **About Scratch**
 
