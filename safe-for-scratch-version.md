@@ -1,4 +1,4 @@
-Disclaimer: This document is here purely for archival purposes, and to render it as HTML (after compiling this file into HTML from Markdown) (the original is a PDF). The original is at \[redacted, to keep this mentionable on Scratch]
+Disclaimer: This document is here purely for archival purposes, and to render it as HTML (after compiling this file into HTML from Markdown) (the original is a PDF). The original is at \[redacted, to keep this mentionable on Scratch]. All credit goes to the Scratch Foundation.
 
 **_Senior Engineer Back-end Services_** \| **_Job Description_**
 
