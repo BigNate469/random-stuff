@@ -7,6 +7,8 @@
         response.json().then((json) => {
           document.getElemenrById('output').innerHTML = JSON.stringify(json);
         });
+      }, (reason) => {
+        document.getElemenrById('output').innerHTML = reason;
       });
     </script>
   </body>
