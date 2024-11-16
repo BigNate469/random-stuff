@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p id="output"></p>
+    <script>
+      fetch('bignate469.github.io/random-stuff/redirection-testing.html').then((response) => {
+        response.json().then((json) => {
+          document.getElemenrById('output').innerHTML = JSON.stringify(json);
+        });
+      });
+    </script>
+  </body>
+</html>
